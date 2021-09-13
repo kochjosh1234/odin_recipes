@@ -1,0 +1,1 @@
+This is my first Odin Project.  This will help me create multiple webpages and learn the proper file structures and HTML elements before moving on to larger projects.
